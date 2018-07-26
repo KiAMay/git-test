@@ -29,6 +29,8 @@
         <p>
             Recomended page for Deals as of 26/07/2018
             <a href="Deals.php"><button class="a"><marquee><h1>Hot Deals</h1></marquee></button></a>
+            <img src="car.jpg" width="1000px" height="700px">
+            
         </p>
     </body>
 </html>
