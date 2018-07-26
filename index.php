@@ -1,6 +1,12 @@
+<style>
+    body{
+    font-family: 'Merienda', cursive;
+    }
+</style>
 <html>
     <header>
         <title>Km-McHome</title>
+            <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
     </header>
 
     <body>
